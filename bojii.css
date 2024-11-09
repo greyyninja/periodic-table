@@ -1,0 +1,28 @@
+/* General table styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dcdce6;
+    margin: 0;
+    padding: 0;
+}
+
+
+table {
+    width: 40%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+
+th, td {
+    padding: 0.1px 2px;
+    text-align: left;
+    border: 3px solid #fff;
+}
+ 
+
+
+
+ 
